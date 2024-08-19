@@ -1,1 +1,1 @@
-Sito carte programmato tramite il solo utilizzo di html,css e javascript
+Sito per compravendita carte creato tramite il solo utilizzo di html,css e javascript
